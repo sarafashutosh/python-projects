@@ -4,7 +4,7 @@ This repository showcases my Python learning journey, featuring projects from fo
 
 ## Progress
 
-|Project No. | Project Name | Status |
+|Project No. |Project Name |Status |
 |-----|--------|--------|
 | 1 | Band Name Generator | ✅ |
 | 2 | Tip Calculator | ✅ |
