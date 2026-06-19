@@ -7,10 +7,7 @@ This repository showcases my Python learning journey, featuring projects from fo
 |Project No. |Project Name |Status |
 |-----|--------|--------|
 | 1 | Band Name Generator | ✅ |
-| 2 | Tip Calculator | ✅ |
+| 2 | BMI Calculator | ✅ |
+| 3 | Bill Splitter | ✅ |
 
-## Skills Gained
-- Python fundamentals
-- Problem solving
-- Debugging
-- Project structuring
+
