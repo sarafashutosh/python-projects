@@ -1,0 +1,6 @@
+print("Welcome to Bill Splitter!")
+bill=float(input("Enter your total bill amount: $"))
+tip=float(input("Enter the tip percentage you gave 5, 10, 15 or other: "))
+people=int(input("Enter the number of people to split the bill: "))
+amount= round((bill*(1+tip/100))/people,2)
+print(f"Each person should pay: ${amount}")
