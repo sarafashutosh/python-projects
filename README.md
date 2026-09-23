@@ -9,5 +9,7 @@ This repository showcases my Python learning journey, featuring projects from fo
 | 1 | Band Name Generator | ✅ |
 | 2 | BMI Calculator | ✅ |
 | 3 | Bill Splitter | ✅ |
+| 4 | Treasure Island Game | ✅ |
+| 5 | Rock Paper Scissors Game | ✅ |
 
 
