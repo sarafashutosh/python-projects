@@ -1,8 +1,8 @@
 # Python Projects
 ## Description
-This repository showcases my Python learning journey, featuring projects from foundational concepts to real-world applications. Each project emphasizes clean code and documentation, serving both as a portfolio of my growth and a structured resource for others interested in learning Python.
+This repository showcases my Python learning journey, featuring projects from foundational concepts to real-world applications. Each project emphasizes clean code and documentation, serving as a portfolio of my learning journey and a structured resource for others interested in learning Python.
 
-## Progress
+## Projects
 
 |Project No. |Project Name |Status |
 |-----|--------|--------|
@@ -11,5 +11,4 @@ This repository showcases my Python learning journey, featuring projects from fo
 | 3 | Bill Splitter | ✅ |
 | 4 | Treasure Island Game | ✅ |
 | 5 | Rock Paper Scissors Game | ✅ |
-
-
+| 6 | Password Generator | ✅ |
